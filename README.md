@@ -37,7 +37,14 @@ The dataset contains meteorological data and fire weather indices.
 6. Model Saving using Pickle
 
 ---
+📌 Results
 
+The model successfully predicts fire weather index values based on input features.
+
+💡 Future Improvements
+Try other models (Random Forest, XGBoost)
+Deploy using Flask or Streamlit
+Add UI for prediction
 
 
 
