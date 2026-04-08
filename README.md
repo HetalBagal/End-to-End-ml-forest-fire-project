@@ -10,12 +10,10 @@ It includes:
 - Model Training
 - Model Saving
 
----
 
 ## 📊 Dataset
 The dataset contains meteorological data and fire weather indices.
 
----
 
 ## ⚙️ Technologies Used
 - Python
@@ -25,7 +23,6 @@ The dataset contains meteorological data and fire weather indices.
 - Seaborn
 - Scikit-learn
 
----
 
 ## 📈 Workflow
 
@@ -36,7 +33,6 @@ The dataset contains meteorological data and fire weather indices.
 5. Model Evaluation
 6. Model Saving using Pickle
 
----
 📌 Results
 
 The model successfully predicts fire weather index values based on input features.
